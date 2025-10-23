@@ -25,7 +25,7 @@ This mini project demonstrates how simulation data can be used to analyze and vi
 - beam_stress_analysis.ipynb — Python notebook for calculations & visualization
 - README.md — Project documentation
 
-  ## Future Improvements
-  - Extend to 3D modeling using FEM tools
-  - Add automated parameter variation
-  - Integrate with simulation APIs like SimScale or FreeCAD
+## Future Improvements
+- Extend to 3D modeling using FEM tools
+- Add automated parameter variation
+- Integrate with simulation APIs like SimScale or FreeCAD
